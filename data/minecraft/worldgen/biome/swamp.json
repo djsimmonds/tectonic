@@ -1,5 +1,5 @@
 {
-  "carvers": {
+  "category": "swamp", "carvers": {
     "air": [
       "minecraft:cave",
       "minecraft:cave_extra_underground",
@@ -71,8 +71,7 @@
       "minecraft:ore_lapis_buried",
       "minecraft:ore_copper",
       "minecraft:underwater_magma",
-      "tectonic:swamp/disk_clay",
-      "tectonic:swamp/disk_mud"
+      "tectonic:swamp/disk_clay"
     ],
     [],
     [
@@ -83,6 +82,7 @@
       "minecraft:glow_lichen",
       "tectonic:swamp/trees/trees_swamp",
       "minecraft:flower_swamp",
+      "tectonic:common/seagrass_land",
       "tectonic:common/grass/patch_grass_sparse",
       "minecraft:patch_dead_bush",
       "minecraft:patch_waterlily",
@@ -134,12 +134,6 @@
         "maxCount": 4,
         "minCount": 4,
         "weight": 8
-      },
-      {
-        "type": "minecraft:frog",
-        "maxCount": 5,
-        "minCount": 2,
-        "weight": 10
       }
     ],
     "misc": [],

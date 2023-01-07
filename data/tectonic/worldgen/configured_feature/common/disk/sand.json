@@ -1,42 +1,27 @@
 {
-    "type": "minecraft:disk",
-    "config": {
-      "state_provider": {
-        "fallback": {
-          "type": "minecraft:noise_provider",
-          "seed": 6789,
-          "noise": {
-            "firstOctave": -9,
-            "amplitudes": [
-              1,
-              1,
-              2,
-              2,
-              1,
-              1,
-              0,
-              0,
-              0
-            ]
-          },
-          "scale": 1,
-          "states": [
-            {
-              "Name": "minecraft:gravel"
-            },
-            {
-              "Name": "minecraft:sand"
-            }
-          ]
-        },
-        "rules": []
+  "type": "minecraft:disk",
+  "config": {
+    "state": {
+      "Name": "minecraft:sand"
+    },
+    "radius": 4,
+    "half_height": 3,
+    "targets": [
+      {
+        "Name": "minecraft:grass_block",
+        "Properties": {
+          "snowy": "false"
+        }
       },
-      "target": {
-        "type": "minecraft:matching_blocks",
-        "blocks": "#tectonic:disk_primary_replaceable"
+      {
+        "Name": "minecraft:coarse_dirt"
       },
-      "radius": 4,
-      "half_height": 3
-    }
+      {
+        "Name": "minecraft:dirt"
+      },
+      {
+        "Name": "minecraft:gravel"
+      }
+    ]
   }
-  
+}

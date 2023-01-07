@@ -1,5 +1,5 @@
 {
-  "carvers": {
+  "category": "mountain", "carvers": {
     "air": [
       "minecraft:cave",
       "minecraft:cave_extra_underground",
@@ -81,6 +81,7 @@
     ],
     [
       "minecraft:glow_lichen",
+      "tectonic:common/seagrass_land",
       "minecraft:patch_sugar_cane"
     ],
     [

@@ -1,5 +1,5 @@
 {
-  "carvers": {
+  "category": "mountain", "carvers": {
     "air": [
       "minecraft:cave",
       "minecraft:cave_extra_underground",

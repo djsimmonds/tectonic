@@ -1,5 +1,5 @@
 {
-  "carvers": {
+  "category": "icy", "carvers": {
     "air": [
       "minecraft:cave",
       "minecraft:cave_extra_underground",
@@ -67,12 +67,10 @@
       "tectonic:snowy/replace_dripstone_lower"
     ],
     [],
-    [
-      "minecraft:spring_water",
-      "minecraft:spring_lava"
-    ],
+    [],
     [
       "minecraft:glow_lichen",
+      "tectonic:common/glow_lichen_cliffs",
       "tectonic:river/ice"
     ],
     [

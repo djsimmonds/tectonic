@@ -1,5 +1,5 @@
 {
-  "carvers": {
+  "category": "jungle", "carvers": {
     "air": [
       "minecraft:cave",
       "minecraft:cave_extra_underground",
@@ -78,13 +78,14 @@
       "minecraft:glow_lichen",
       "tectonic:jungle/trees/trees_sparse_jungle",
       "tectonic:common/flowers_warm",
+      "tectonic:common/seagrass_land",
       "tectonic:common/grass/patch_grass_very_dense",
       "minecraft:brown_mushroom_normal",
       "minecraft:red_mushroom_normal",
       "minecraft:patch_sugar_cane",
       "minecraft:patch_pumpkin",
       "minecraft:vines",
-      "minecraft:patch_melon_sparse"
+      "tectonic:jungle/patch_melon_why_did_vanilla_crash_idk"
     ],
     [
       "minecraft:freeze_top_layer"
