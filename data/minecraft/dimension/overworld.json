@@ -4923,7 +4923,7 @@
                         ],
                         "offset": 0
                     },
-                    "biome": "tectonic:autumn_forest"
+                    "biome": "minecraft:forest"
                 },
                 {
                     "parameters": {
@@ -4953,7 +4953,7 @@
                         ],
                         "offset": 0
                     },
-                    "biome": "tectonic:autumn_birch_forest"
+                    "biome": "minecraft:birch_forest"
                 },
                 {
                     "parameters": {
@@ -10893,7 +10893,7 @@
                         ],
                         "offset": 0
                     },
-                    "biome": "tectonic:autumn_forest"
+                    "biome": "minecraft:forest"
                 },
                 {
                     "parameters": {
@@ -10923,7 +10923,7 @@
                         ],
                         "offset": 0
                     },
-                    "biome": "tectonic:autumn_birch_forest"
+                    "biome": "minecraft:birch_forest"
                 },
                 {
                     "parameters": {
@@ -16203,7 +16203,7 @@
                         ],
                         "offset": 0
                     },
-                    "biome": "tectonic:autumn_forest"
+                    "biome": "minecraft:forest"
                 },
                 {
                     "parameters": {
@@ -16233,7 +16233,7 @@
                         ],
                         "offset": 0
                     },
-                    "biome": "tectonic:autumn_birch_forest"
+                    "biome": "minecraft:birch_forest"
                 },
                 {
                     "parameters": {
@@ -22173,7 +22173,7 @@
                         ],
                         "offset": 0
                     },
-                    "biome": "tectonic:autumn_forest"
+                    "biome": "minecraft:forest"
                 },
                 {
                     "parameters": {
@@ -22203,7 +22203,7 @@
                         ],
                         "offset": 0
                     },
-                    "biome": "tectonic:autumn_birch_forest"
+                    "biome": "minecraft:birch_forest"
                 },
                 {
                     "parameters": {

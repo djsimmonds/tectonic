@@ -1,12 +1,13 @@
 {
-  "category": "plains", "carvers": {
+  "category": "plains",
+  "carvers": {
     "air": [
       "minecraft:cave",
       "minecraft:cave_extra_underground",
       "minecraft:canyon"
     ]
   },
-  "downfall": 0.4,
+  "downfall": 0.35,
   "effects": {
     "fog_color": 12638463,
     "mood_sound": {
@@ -37,8 +38,8 @@
     [
       "tectonic:common/stone_in_deepslate",
       "tectonic:common/deepslate_in_stone",
-        "tectonic:common/disk/magma",
-        "tectonic:common/disk/smooth_basalt",
+      "tectonic:common/disk/magma",
+      "tectonic:common/disk/smooth_basalt",
       "minecraft:ore_dirt",
       "minecraft:ore_gravel",
       "minecraft:ore_granite_upper",
@@ -198,5 +199,5 @@
     "water_ambient": [],
     "water_creature": []
   },
-  "temperature": 1.4
+  "temperature": 0.95
 }
