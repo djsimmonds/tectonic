@@ -69,6 +69,7 @@
     ],
     [
       "minecraft:glow_lichen",
+      "tectonic:common/seagrass_land",
       "minecraft:mushroom_island_vegetation",
       "minecraft:brown_mushroom_taiga",
       "minecraft:red_mushroom_taiga",
@@ -80,7 +81,7 @@
     ]
   ],
   "precipitation": "rain",
-    "has_precipitation": true,
+  "has_precipitation": true,
   "spawn_costs": {},
   "spawners": {
     "ambient": [
