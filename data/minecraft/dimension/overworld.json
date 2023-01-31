@@ -693,7 +693,7 @@
                         ],
                         "offset": 0
                     },
-                    "biome": "minecraft:mangrove_swamp"
+                    "biome": "minecraft:swamp"
                 },
                 {
                     "parameters": {
@@ -1503,7 +1503,7 @@
                         ],
                         "offset": 0
                     },
-                    "biome": "minecraft:mangrove_swamp"
+                    "biome": "minecraft:swamp"
                 },
                 {
                     "parameters": {
@@ -11433,7 +11433,7 @@
                         ],
                         "offset": 0
                     },
-                    "biome": "minecraft:mangrove_swamp"
+                    "biome": "minecraft:swamp"
                 },
                 {
                     "parameters": {
@@ -12243,7 +12243,7 @@
                         ],
                         "offset": 0
                     },
-                    "biome": "minecraft:mangrove_swamp"
+                    "biome": "minecraft:swamp"
                 },
                 {
                     "parameters": {
@@ -21424,36 +21424,6 @@
                         "offset": 0
                     },
                     "biome": "tectonic:red_desert_dunes"
-                },
-                {
-                    "parameters": {
-                        "weirdness": [
-                            -1,
-                            1
-                        ],
-                        "continentalness": [
-                            0.3,
-                            1
-                        ],
-                        "erosion": [
-                            -0.11,
-                            0.11
-                        ],
-                        "temperature": [
-                            -1,
-                            1
-                        ],
-                        "humidity": [
-                            -1,
-                            1
-                        ],
-                        "depth": [
-                            1.1,
-                            1.1
-                        ],
-                        "offset": 0
-                    },
-                    "biome": "minecraft:deep_dark"
                 }
             ],
             "type": "minecraft:multi_noise"
